@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public GameObject gm;
-    public GameObject pokemon;
+    public GameManager gm;
+    public Pokemon pokemon;
 
-    public List<OwnedPokemon> ownedPokemon = new List<OwnedPokemon>();
+    public List<Pokemon> ownedPokemon = new List<Pokemon>();
 
     void Start()
     {
@@ -31,5 +31,5 @@ public class Player : MonoBehaviour
         public string NickName;
         public Pokemon pokemon;
         public int level;
-        public List<PokemonMoves> moves = new List<PokemonMoves>();
+        public List<GameManager.PokemonMoves> moves = new List<GameManager.PokemonMoves>();
 }

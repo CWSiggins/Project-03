@@ -4,20 +4,24 @@ using UnityEngine;
 
 public class Pokemon : MonoBehaviour
 {
-    public GameObject gm;
+    public GameManager gm;
     
 
     public string Name;
     public Sprite image;
     public PokemonType type;
-    public Stats HPStat;
-    public Stats AttackStat;
-    public Stats DefenseStat;
-    public Stats SpeedStat;
-    public float Speed;
+    public int HP;
+    private int maxHP;
+    public GameManager.Stats AttackStat;
+    public GameManager.Stats DefenseStat;
 
-    public PokemonStats pokemonStats;
+    public BasePokemonStats pokemonStats;
 
+
+    void Start()
+    {
+        maxHP = HP;
+    }
 
     public enum PokemonType
     {
@@ -40,7 +44,7 @@ public class Pokemon : MonoBehaviour
     }
 
     [System.Serializable]
-    public class PokemonStats
+    public class BasePokemonStats
     {
         public int SpeedStat;
         public int AttackStat;

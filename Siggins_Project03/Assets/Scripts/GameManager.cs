@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public GameObject pokemon;
+    public Pokemon pokemon;
 
     public List<Pokemon> allPokemon = new List<Pokemon>();
     public List<PokemonMoves> allMoves = new List<PokemonMoves>();
@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
         public string name;
         public Stats moveStat;
         public MoveType category;
-        public PokemonType moveType;
+        public Pokemon.PokemonType moveType;
         public int PP;
         public float damage;
         public float accuracy;
