@@ -5,9 +5,15 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public Pokemon pokemon;
+    public BattleManager bm;
 
     public List<Pokemon> allPokemon = new List<Pokemon>();
     public List<PokemonMoves> allMoves = new List<PokemonMoves>();
+
+    void Start()
+    {
+        bm.ChangeMenu(BattleMenu.Selection);
+    }
 
     [System.Serializable]
     public class Stats
