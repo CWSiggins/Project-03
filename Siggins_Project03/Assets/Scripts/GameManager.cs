@@ -14,19 +14,20 @@ public class GameManager : MonoBehaviour
     {
         bm.ChangeMenu(BattleMenu.Selection);
     }
-
-    [System.Serializable]
-    public class Stats
+    void Update()
     {
-        public float statMin;
-        public float statMax;
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+
+        }
     }
+
 
     [System.Serializable]
     public class PokemonMoves
     {
         public string name;
-        public Stats moveStat;
         public MoveType category;
         public Pokemon.PokemonType moveType;
         public int PP;

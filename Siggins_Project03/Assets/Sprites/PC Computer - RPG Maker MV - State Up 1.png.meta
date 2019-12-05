@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: ed7326ea6fcb3234a97ac8f10e1446c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8868183109842192527
+    second: PC Computer - RPG Maker MV - State Up 1_0
+  - first:
+      213: 5802418385796061071
+    second: PC Computer - RPG Maker MV - State Up 1_1
+  - first:
+      213: 1539835395008734770
+    second: PC Computer - RPG Maker MV - State Up 1_2
+  - first:
+      213: -5837552980249229144
+    second: PC Computer - RPG Maker MV - State Up 1_3
+  - first:
+      213: -6932070441172301957
+    second: PC Computer - RPG Maker MV - State Up 1_4
+  - first:
+      213: 7770002740946469422
+    second: PC Computer - RPG Maker MV - State Up 1_5
+  - first:
+      213: 606634023866010038
+    second: PC Computer - RPG Maker MV - State Up 1_6
+  - first:
+      213: -998554277939390456
+    second: PC Computer - RPG Maker MV - State Up 1_7
+  - first:
+      213: -3137603329849760223
+    second: PC Computer - RPG Maker MV - State Up 1_8
+  - first:
+      213: 4651170898451182673
+    second: PC Computer - RPG Maker MV - State Up 1_9
+  - first:
+      213: 5583339835581672339
+    second: PC Computer - RPG Maker MV - State Up 1_10
+  - first:
+      213: -5277253608591913135
+    second: PC Computer - RPG Maker MV - State Up 1_11
+  - first:
+      213: -5161302072858897408
+    second: PC Computer - RPG Maker MV - State Up 1_12
+  - first:
+      213: 7547103966978471074
+    second: PC Computer - RPG Maker MV - State Up 1_13
+  - first:
+      213: -3953137254111873313
+    second: PC Computer - RPG Maker MV - State Up 1_14
+  - first:
+      213: -8794755989139596708
+    second: PC Computer - RPG Maker MV - State Up 1_15
+  - first:
+      213: -3868895368052403740
+    second: PC Computer - RPG Maker MV - State Up 1_16
+  - first:
+      213: -8513137361718137698
+    second: PC Computer - RPG Maker MV - State Up 1_17
+  - first:
+      213: 2920882272832551650
+    second: PC Computer - RPG Maker MV - State Up 1_18
+  - first:
+      213: -8486894402545730725
+    second: PC Computer - RPG Maker MV - State Up 1_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f8059b240b0f140b7d22fefcd75b52
+      internalID: -8868183109842192527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 583
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f079a3c1b0ca47b5b3df9aef08fde
+      internalID: 5802418385796061071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 583
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92818ea79c54f4e8f284c3e66d2aaf
+      internalID: 1539835395008734770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 583
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d3de27bbd00841ad1e1ad4543e7ce
+      internalID: -5837552980249229144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 583
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97448f96432e641bc1a3caa741d168
+      internalID: -6932070441172301957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16602316f0646a5419a1dda55a849b65
+      internalID: 7770002740946469422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 398
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b08335e926f441be7957c85fdf298
+      internalID: 606634023866010038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 398
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c11149a7ccdea4db5e09fea34e1cfe
+      internalID: -998554277939390456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 398
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ad38b2c504891458c78222f9ea06a7
+      internalID: -3137603329849760223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 398
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c405c4ee23b64384f11e1f91d514e
+      internalID: 4651170898451182673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678424e6712c6144b9ae8e9441f2f1ea
+      internalID: 5583339835581672339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 213
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6621650884a0f499b5e5534c8e1ae1
+      internalID: -5277253608591913135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 213
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df8c8242ca49704aa482eae0c28d0f6
+      internalID: -5161302072858897408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 213
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc8286e73e7cb4d8378bdbdf4eff59
+      internalID: 7547103966978471074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 213
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525d182442a0d54bb0b5d259e2466c9
+      internalID: -3953137254111873313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad46085248e59b4a99af5acbc049161
+      internalID: -8794755989139596708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 28
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3625174087b774ea2388fc16b8d69d
+      internalID: -3868895368052403740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 28
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2ea2553485b1640952c8e09f95620a
+      internalID: -8513137361718137698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 28
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274fcc7333bb47c44b62a4b197a9d48d
+      internalID: 2920882272832551650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Up 1_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 28
+        width: 191
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ae26e9456c4d44951b7a14cceccfc
+      internalID: -8486894402545730725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

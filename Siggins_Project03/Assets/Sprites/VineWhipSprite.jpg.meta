@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 345e0e98b47045745a9c84bc1f03b5b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6910781491055864765
+    second: VineWhipSprite_0
+  - first:
+      213: -1244855987764112457
+    second: VineWhipSprite_1
+  - first:
+      213: 77663844780710516
+    second: VineWhipSprite_2
+  - first:
+      213: -4842312416049080565
+    second: VineWhipSprite_3
+  - first:
+      213: 8426897652994099385
+    second: VineWhipSprite_4
+  - first:
+      213: 3658899192191511688
+    second: VineWhipSprite_5
+  - first:
+      213: -6260582611772678015
+    second: VineWhipSprite_6
+  - first:
+      213: -7776190643719738835
+    second: VineWhipSprite_7
+  - first:
+      213: -8093781606447888141
+    second: VineWhipSprite_8
+  - first:
+      213: -5651612191335002340
+    second: VineWhipSprite_9
+  - first:
+      213: 825988013045809701
+    second: VineWhipSprite_10
+  - first:
+      213: 1297886906189493530
+    second: VineWhipSprite_11
+  - first:
+      213: 2249223133823206936
+    second: VineWhipSprite_12
+  - first:
+      213: 3231597365045207509
+    second: VineWhipSprite_13
+  - first:
+      213: -6142844045161753545
+    second: VineWhipSprite_14
+  - first:
+      213: 365722199708372791
+    second: VineWhipSprite_15
+  - first:
+      213: 2356998242828870609
+    second: VineWhipSprite_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VineWhipSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd98bd0b94fc4304aa041b343c0284e5
+      internalID: -6910781491055864765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 376
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6015eac7e0ebe489ef3a7a8d8b5a48
+      internalID: -1244855987764112457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 384
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a23e19ff0dd0e449c181cbd0d1e303
+      internalID: 77663844780710516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5e93a04170f00479338a1a98e8919c
+      internalID: -4842312416049080565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363a76f5776b72d4a8e00fc977984d55
+      internalID: 8426897652994099385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 256
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f802fdb2deb3e40a81159f21792a65
+      internalID: 3658899192191511688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 312
+        width: 9
+        height: 36
+      alignment: 9
+      pivot: {x: 0.24290974, y: 0.53213584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486fbbcc57adf6146baf080b59360c92
+      internalID: -6260582611772678015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 256
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1919aa52a50b41b45a6df8e5a24660bf
+      internalID: -7776190643719738835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86391cfcab47f6c4c9c2efbe26f9b76b
+      internalID: -8093781606447888141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 128
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813ac1cac6964a41b9367b4095e09cd
+      internalID: -5651612191335002340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 128
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d1ab080b59834d82736291cbe0eca
+      internalID: 825988013045809701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 128
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e9c8ffae874b43a9a3749f4eb5454
+      internalID: 1297886906189493530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 36
+        height: 25
+      alignment: 9
+      pivot: {x: 1.743387, y: 1.0264337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489363a04f8760c4ca84806b1ae77cb4
+      internalID: 2249223133823206936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711d588c2b0afc499f1e2a383b5c270
+      internalID: 3231597365045207509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 50
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e7e3fc471bc3a4cacc7d329b557f40
+      internalID: -6142844045161753545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bfe004e7d84ae499fda1461cad9e91
+      internalID: 365722199708372791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VineWhipSprite_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 319
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7014654af30824b87ec0fa641ed070
+      internalID: 2356998242828870609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
